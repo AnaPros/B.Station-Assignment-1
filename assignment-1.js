@@ -9,7 +9,6 @@ for (var i=0; i < 10; i++){
 console.log(numbers[0]);
 console.log(numbers[9]);
 
-var car = {
-    colour : "blank"
+var car =  {
+    colour : "black";
     }
-
